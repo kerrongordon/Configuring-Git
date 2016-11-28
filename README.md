@@ -1,5 +1,5 @@
 # Configuring Git
----
+
 We'll be using Git for our version control system so we're going to set it up to match our Github account. If you don't already have a Github account, make sure to [register](https://github.com/). It will come in handy for the future.
 
 Replace my name and email address in the following steps with the ones you used for your Github account.
